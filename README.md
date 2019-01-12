@@ -1,6 +1,9 @@
-# nuxt-project
+# nuxt.js with Typescript
 
 > My classy Nuxt.js project
+
+Playing around with nuxt and TypeScript.
+Used the nuxt starter and included TypeScript with [wagerfield/nuxt-typescript](https://github.com/wagerfield/nuxt-typescript).
 
 ## Build Setup
 
